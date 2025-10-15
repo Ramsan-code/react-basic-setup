@@ -6,4 +6,11 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+.profile-container {
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px 25px;
+    background-color: #ded7d7;
+    border-radius: 10px;
+}
 
